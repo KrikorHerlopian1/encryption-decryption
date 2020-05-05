@@ -50,7 +50,7 @@ Run Decryption Command
 | Encrypt       | king          | MEETMEATTHECORNER | WMRZYIEMFLEVHYRGF           | ZMVGMILYWYFHFREER
 | Decrypt       | king          | ZMVGMILYWYFHFREER | WMRZYIEMFLEVHYRGF           | MEETMEATTHECORNER
 
-In case of encryption, First encryption is vigenere and second encryption is double columnar tranpsotion resulting in output.txt
+In case of encryption, First encryption is Autokey Cipher and second encryption is double columnar tranpsotion resulting in output.txt
 
-In case of decryption, First decryption is done using tranposition and then second decryption done
-using vigenere resulting in output.txt
+In case of decryption, First decryption is done using transposition and then second decryption done
+using Autokey Cipher resulting in output.txt
